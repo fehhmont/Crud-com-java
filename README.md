@@ -1,17 +1,17 @@
 # CRUD de Gibis em Java
 Este projeto implementa um CRUD (Create, Read, Update, Delete) simples para gerenciar um acervo de gibis em Java. A aplicação permite adicionar, listar, alterar e excluir informações de gibis, como nome, ano, autor e categoria, por meio de um menu interativo no terminal.
 
- ** Funcionalidades **
+ ###Funcionalidades
 O programa apresenta as seguintes funcionalidades:
 
-Cadastrar Gibi: Permite inserir informações de um gibi (nome, ano, autor, categoria).
-Relatórios:
-Listar todos os gibis cadastrados.
-Consultar gibis por autor.
-Consultar gibis por categoria.
-Alterar Gibi: Permite modificar os dados de um gibi existente, identificando-o pelo ID.
-Excluir Gibi: Remove um gibi do acervo pelo seu ID.
-Sair: Encerra o programa.
+**Cadastrar Gibi:** Permite inserir informações de um gibi (nome, ano, autor, categoria).
+###Relatórios:
+* Listar todos os gibis cadastrados.
+* Consultar gibis por autor.
+* Consultar gibis por categoria.
+**Alterar Gibi:** Permite modificar os dados de um gibi existente, identificando-o pelo ID.
+**Excluir Gibi:** Remove um gibi do acervo pelo seu ID.
+**Sair:** Encerra o programa.
 # Estrutura de Classes
 Classe Trabalhogibi2
 É a classe principal que contém o menu interativo e controla as operações do CRUD com uma lista de gibis.
